@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.34de6062.chunk.css",
-    "main.js": "/static/js/main.8e1e785f.chunk.js",
-    "main.js.map": "/static/js/main.8e1e785f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f5e8f6e3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f5e8f6e3.js.map",
-    "static/js/2.75f9e5eb.chunk.js": "/static/js/2.75f9e5eb.chunk.js",
-    "static/js/2.75f9e5eb.chunk.js.map": "/static/js/2.75f9e5eb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.643d20383f6d34669e3e73a12b0382ae.js": "/precache-manifest.643d20383f6d34669e3e73a12b0382ae.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/portfolios_wittaya.github.io/static/css/main.34de6062.chunk.css",
+    "main.js": "/portfolios_wittaya.github.io/static/js/main.d2847240.chunk.js",
+    "main.js.map": "/portfolios_wittaya.github.io/static/js/main.d2847240.chunk.js.map",
+    "runtime-main.js": "/portfolios_wittaya.github.io/static/js/runtime-main.8724e37f.js",
+    "runtime-main.js.map": "/portfolios_wittaya.github.io/static/js/runtime-main.8724e37f.js.map",
+    "static/js/2.75f9e5eb.chunk.js": "/portfolios_wittaya.github.io/static/js/2.75f9e5eb.chunk.js",
+    "static/js/2.75f9e5eb.chunk.js.map": "/portfolios_wittaya.github.io/static/js/2.75f9e5eb.chunk.js.map",
+    "index.html": "/portfolios_wittaya.github.io/index.html",
+    "precache-manifest.cf621d4cc8917f75fa190badb73db908.js": "/portfolios_wittaya.github.io/precache-manifest.cf621d4cc8917f75fa190badb73db908.js",
+    "service-worker.js": "/portfolios_wittaya.github.io/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/portfolios_wittaya.github.io/static/css/main.34de6062.chunk.css.map"
   }
 }
